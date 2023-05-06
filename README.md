@@ -7,7 +7,9 @@ Simple Python based calculator.
 User Guide
 ----------
 1 - Type the corrosponding number for the task you want to be completed shown by the onscreen gui.
+
 2 - Type number needed for your calculation.
+
 3 - Have fun calculating!
 
 Download User Guide
