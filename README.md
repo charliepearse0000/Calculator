@@ -21,7 +21,7 @@ Download User Guide
 
 Or
 
-1 - Visit an online python compuler such as:
+1 - Visit an online python compiler such as:
 https://www.programiz.com/python-programming/online-compiler/
 
 2 - Copy and paste python script, and run!
